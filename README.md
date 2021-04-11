@@ -1,4 +1,4 @@
-# chat_app
+# A CHAT APP
 
 A new Flutter application, where you can chat with the person you want to who has registered in the app. 
 User needs to sign-up if he is using the app for the first time, or-else, simple sign-in will do. Normal emojis can be sent.
